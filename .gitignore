@@ -41,3 +41,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# SpyderProject
+.spyderproject
+
+# Hidden
+secret.py
+secret.pyc
